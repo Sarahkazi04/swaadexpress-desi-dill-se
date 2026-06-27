@@ -1,0 +1,8 @@
+streamlit
+firebase-admin
+pyrebase4
+pandas
+numpy
+Pillow
+requests
+streamlit-option-menu
