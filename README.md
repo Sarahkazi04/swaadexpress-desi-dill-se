@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍱 SwaadExpress - Desi Dill Se
 
 A smart food delivery platform inspired by the iconic **Mumbai Dabbawala** network. SwaadExpress connects customers, dabbawalas, and food providers through a streamlined web application, making homemade meal delivery more organized, efficient, and accessible.
@@ -204,4 +203,3 @@ Food wastage and inefficient last-mile food delivery.
 ## Author
 
 Sarah Kazi
->>>>>>> 682272598131c7dcd26980ac3f5f0075ba9b49fd
