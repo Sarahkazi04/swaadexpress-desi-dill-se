@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 firebase-admin
 pyrebase4
@@ -6,3 +7,8 @@ numpy
 Pillow
 requests
 streamlit-option-menu
+=======
+firebase_admin
+streamlit
+streamlit_option_menu
+>>>>>>> 682272598131c7dcd26980ac3f5f0075ba9b49fd

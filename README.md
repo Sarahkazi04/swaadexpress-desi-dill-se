@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍱 SwaadExpress - Desi Dill Se
 
 A smart food delivery platform inspired by the iconic **Mumbai Dabbawala** network. SwaadExpress connects customers, dabbawalas, and food providers through a streamlined web application, making homemade meal delivery more organized, efficient, and accessible.
@@ -165,3 +166,42 @@ This project was developed as part of our academic journey to explore real-world
 ---
 
 ⭐ If you found this project interesting, consider giving the repository a star.
+=======
+# SwaadExpress: Desi Dill Se 🍱
+
+A food delivery platform inspired by Mumbai's famous Dabbawalla network.
+
+## Features
+
+- Customer Login & Registration
+- Dabbawalla Dashboard
+- Order Management
+- Route Optimization
+- NGO Food Donation Support
+- Live Delivery Tracking
+- Customer Reviews
+- Real-Time Notifications
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Firebase
+- OpenRailway API
+- Bing Maps API
+
+## Problem Solved
+
+Food wastage and inefficient last-mile food delivery.
+
+## Future Enhancements
+
+- AI-based route optimization
+- Mobile application
+- Vendor onboarding
+- Digital payment integration
+
+## Author
+
+Sarah Kazi
+>>>>>>> 682272598131c7dcd26980ac3f5f0075ba9b49fd
