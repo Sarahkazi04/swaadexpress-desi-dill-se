@@ -19,7 +19,7 @@ def sign_up_with_email_and_password(email, password, username=None, return_secur
     if username:
         payload["displayName"] = username
     payload = json.dumps(payload)
-    r = requests.post(rest_api_url, params={"key": "AIzaSyApr-etDzcGcsVcmaw7R7rPxx3A09as7uw"}, data=payload)
+    r = requests.post(rest_api_url, params={"key": "YOUR_GOOGLE_API_KEY"}, data=payload)
     try:
         data = r.json()
         if 'email' in data:
